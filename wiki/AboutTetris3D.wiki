@@ -12,4 +12,4 @@ and it includes:
 
 ===Simple graphics with texture mapping and 3d text realisation===
 ===Demonstration of the next figure in queue===
-==Points gaining after full-row is completed===
+===Points gaining after full-row is completed===
